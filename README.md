@@ -1,2 +1,2 @@
-# bdsp-auto-shiny-legendary
+# ポケモンBDSPハマナスパーク自動色違い伝説厳選
 ポケモンBDSPでPoke-Controllerを使ってハマナスパークの伝説ポケモンの自動色違い厳選
